@@ -1,0 +1,45 @@
+c:\users\user\documents\visual studio 2015\Projects\Practise\Practise\bin\Debug\Practise.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Practise\Practise\bin\Debug\Practise.exe
+c:\users\user\documents\visual studio 2015\Projects\Practise\Practise\bin\Debug\Practise.pdb
+c:\users\user\documents\visual studio 2015\Projects\Practise\Practise\obj\Debug\Practise.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Practise\Practise\obj\Debug\Practise.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Practise\Practise\obj\Debug\Practise.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Practise\Practise\obj\Debug\Practise.exe
+c:\users\user\documents\visual studio 2015\Projects\Practise\Practise\obj\Debug\Practise.pdb
+c:\users\user\documents\visual studio 2015\Projects\Practise\Practise\obj\Debug\Practise.Form2.resources
+c:\users\user\documents\visual studio 2015\Projects\Practise\Practise\obj\Debug\Practise.Form3.resources
+c:\users\user\documents\visual studio 2015\Projects\Practise\Practise\obj\Debug\Practise.Form4.resources
+c:\users\user\documents\visual studio 2015\Projects\Practise\Practise\obj\Debug\Practise.Form5.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Practise\Practise\obj\Debug\Practise.Form6.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Practise\Practise\obj\Debug\Practise.Form7.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Practise\Practise\obj\Debug\Practise.csprojResolveAssemblyReference.cache
+D:\Practise\Practise\bin\Debug\Practise.exe.config
+D:\Practise\Practise\obj\Debug\Practise.exe
+D:\Practise\Practise\obj\Debug\Practise.pdb
+D:\Practise\Practise\bin\Debug\Practise.exe
+D:\Practise\Practise\bin\Debug\Practise.pdb
+D:\Practise\Practise\obj\Debug\Practise.csprojResolveAssemblyReference.cache
+D:\Practise\Practise\obj\Debug\Practise.Form1.resources
+D:\Practise\Practise\obj\Debug\Practise.Form2.resources
+D:\Practise\Practise\obj\Debug\Practise.Form3.resources
+D:\Practise\Practise\obj\Debug\Practise.Form4.resources
+D:\Practise\Practise\obj\Debug\Practise.Form5.resources
+D:\Practise\Practise\obj\Debug\Practise.Form6.resources
+D:\Practise\Practise\obj\Debug\Practise.Form7.resources
+D:\Practise\Practise\obj\Debug\Practise.Properties.Resources.resources
+D:\Practise\Practise\obj\Debug\Practise.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Practise\Practise\bin\Debug\Practise.exe.config
+C:\Users\user\Desktop\Practise\Practise\obj\Debug\Practise.exe
+C:\Users\user\Desktop\Practise\Practise\obj\Debug\Practise.pdb
+C:\Users\user\Desktop\Practise\Practise\bin\Debug\Practise.exe
+C:\Users\user\Desktop\Practise\Practise\bin\Debug\Practise.pdb
+C:\Users\user\Desktop\Practise\Practise\obj\Debug\Practise.Form1.resources
+C:\Users\user\Desktop\Practise\Practise\obj\Debug\Practise.Form2.resources
+C:\Users\user\Desktop\Practise\Practise\obj\Debug\Practise.Form3.resources
+C:\Users\user\Desktop\Practise\Practise\obj\Debug\Practise.Form4.resources
+C:\Users\user\Desktop\Practise\Practise\obj\Debug\Practise.Form5.resources
+C:\Users\user\Desktop\Practise\Practise\obj\Debug\Practise.Form6.resources
+C:\Users\user\Desktop\Practise\Practise\obj\Debug\Practise.Form7.resources
+C:\Users\user\Desktop\Practise\Practise\obj\Debug\Practise.Properties.Resources.resources
+C:\Users\user\Desktop\Practise\Practise\obj\Debug\Practise.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Practise\Practise\obj\Debug\Practise.Form8.resources
